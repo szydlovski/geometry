@@ -7,6 +7,7 @@
     "email": "kamil.szydlovski@gmail.com",
     "url": "http://szydlovski.com"
   },
+  "repository": "https://github.com/szydlovski/geometry",
   "scripts": {
     "build": "tsc"
   },
