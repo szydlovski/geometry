@@ -1,0 +1,19 @@
+{
+  "name": "@szydlovski/geometry",
+  "version": "0.2.0",
+  "description": "2d geometry utilities",
+  "author": {
+    "name": "Kamil Szydlowski",
+    "email": "kamil.szydlovski@gmail.com",
+    "url": "http://szydlovski.com"
+  },
+  "scripts": {
+    "build": "tsc"
+  },
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "type": "module",
+  "devDependencies": {
+    "typescript": "^4.3.5"
+  }
+}
